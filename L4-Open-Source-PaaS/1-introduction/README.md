@@ -1,10 +1,12 @@
+<h1>Introduction</h1>
 
-
+<p align="center">Click below for video Lecture</p>
 <p align="center">
     <a 
     href="https://www.youtube.com/watch?v=tQmQmF5bb7Y" 
+    target=”_blank”
     title="Link Title">
-        <img src="../images/Ali%20Mehdi%20Software%20Developer%20(NUST)1.png" style="width:200px;height:200px;" alt="Alternate Text" />
+        <img src="../images/download.png" style="width:200px;height:200px;" alt="Alternate Text" />
     </a>
 </p>
 
