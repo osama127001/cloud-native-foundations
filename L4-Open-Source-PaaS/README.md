@@ -1,4 +1,13 @@
-<a href="[{video-url}](https://www.youtube.com/watch?v=tQmQmF5bb7Y)" title="Link Title"><img src="../images/Ali%20Mehdi%20Software%20Developer%20(NUST)1.png" alt="Alternate Text" /></a>
+
+
+<p align="center">
+    <a 
+    href="https://www.youtube.com/watch?v=tQmQmF5bb7Y" 
+    title="Link Title">
+        <img src="../images/Ali%20Mehdi%20Software%20Developer%20(NUST)1.png" style="width:200px;height:200px;" alt="Alternate Text" />
+    </a>
+</p>
+
 
 Welcome to Open Source PaaS lesson!
 
